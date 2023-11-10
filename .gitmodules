@@ -13,3 +13,15 @@
 [submodule "array_lab5"]
 	path = array_lab5
 	url = https://github.com/ImperialSpaceExplorer/array_lab5.git
+[submodule "method_lab1"]
+	path = method_lab1
+	url = https://github.com/ImperialSpaceExplorer/method_lab1.git
+[submodule "method_lab2"]
+	path = method_lab2
+	url = https://github.com/ImperialSpaceExplorer/method_lab2.git
+[submodule "method_lab3"]
+	path = method_lab3
+	url = https://github.com/ImperialSpaceExplorer/method_lab3.git
+[submodule "method_lab4"]
+	path = method_lab4
+	url = https://github.com/ImperialSpaceExplorer/method_lab4.git
