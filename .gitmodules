@@ -25,3 +25,9 @@
 [submodule "method_lab4"]
 	path = method_lab4
 	url = https://github.com/ImperialSpaceExplorer/method_lab4.git
+[submodule "class_lab1"]
+	path = class_lab1
+	url = https://github.com/ImperialSpaceExplorer/class_lab1.git
+[submodule "class_lab3"]
+	path = class_lab3
+	url = https://github.com/ImperialSpaceExplorer/class_lab3.git
